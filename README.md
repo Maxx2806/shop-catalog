@@ -92,4 +92,4 @@ npx expo start
 
 ---
 
-## 📁 Struktur Project
+Link Expo snack : https://snack.expo.dev/@maxwelltarigan2806/shop-catalog
