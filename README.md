@@ -7,10 +7,10 @@ Aplikasi katalog produk e-commerce berbasis React Native (Expo) yang menampilkan
 ## 📱 Screenshots
 
 ### Success State
-![Success](screenshots/success.jpeg)
+![Success](success.jpeg)
 
 ### Error State
-![Error](screenshots/error.jpeg)
+![Error](error.jpeg)
 
 ---
 
